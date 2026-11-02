@@ -23,4 +23,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Soumili0/PracticeSet/tree/master/0175-combine-two-tables) |
+| [1683-invalid-tweets](https://github.com/Soumili0/PracticeSet/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->
