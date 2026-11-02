@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Soumili0/PracticeSet/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Soumili0/PracticeSet/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Soumili0/PracticeSet/tree/master/0875-koko-eating-bananas) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Soumili0/PracticeSet/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
