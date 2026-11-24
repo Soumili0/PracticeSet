@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Soumili0/PracticeSet/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Soumili0/PracticeSet/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Soumili0/PracticeSet/tree/master/0202-happy-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Soumili0/PracticeSet/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0202-happy-number](https://github.com/Soumili0/PracticeSet/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -72,9 +74,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Soumili0/PracticeSet/tree/master/0007-reverse-integer) |
+| [0202-happy-number](https://github.com/Soumili0/PracticeSet/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Soumili0/PracticeSet/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Soumili0/PracticeSet/tree/master/0412-fizz-buzz) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Soumili0/PracticeSet/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
