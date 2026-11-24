@@ -67,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Soumili0/PracticeSet/tree/master/0053-maximum-subarray) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Soumili0/PracticeSet/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
